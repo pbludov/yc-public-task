@@ -22,10 +22,14 @@ https://console.cloud.yandex.ru/federations/ajepuddqdj1o5f3gvp4q
 
 Добавьте Claim "nameId" с параметрами:
 name:            nameId
-LDAP Attribute:  User-Principal-Name
-Claim Type:      Name ID
 
+| LDAP Attribute: | Claim Type: |
+|-----------------|-------------|
+| User-Principal-Name | Name ID |
+| EmailAddress | EmailAddres |
+| Display Name | Name |
 
 Перейдите в браузере по ссылке
 https://console.cloud.yandex.ru/federations/<идентификатор федерации>
 
+Войдите под учётной записью YC-IAM\User1 с паролем Tralala42
