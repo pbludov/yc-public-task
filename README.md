@@ -26,7 +26,7 @@ name:            nameId
 | LDAP Attribute: | Claim Type: |
 |-----------------|-------------|
 | User-Principal-Name | Name ID |
-| EmailAddress | EmailAddres |
+| EmailAddress | EmailAddress |
 | Display Name | Name |
 
 Перейдите в браузере по ссылке
